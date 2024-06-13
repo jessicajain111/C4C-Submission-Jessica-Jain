@@ -28,28 +28,14 @@ h1.title {
   padding-bottom: 25px;
 }
 
-/* PartnerTile */
-
-.partner-tile {
-  width: 450px;
-  height: 400px;
-
+body {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-
-  border: 1px solid #3d3d3d;
-  border-radius: 12px;
-
-  padding: 25px;
 }
 
-.partner-thumbnail {
-  max-width: 330px;
-  max-height: 150px;
-}
+/* PartnerTile */
 
-.partner-info {
-  font-size: 0.9em;
-}
+
+/*PartnerForm*/
+

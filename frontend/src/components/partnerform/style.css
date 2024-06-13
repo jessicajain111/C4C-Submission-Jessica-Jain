@@ -1,0 +1,48 @@
+.add-partner-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+    display: block;
+  }
+  
+  .partner-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
+  .partner-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .partner-form form div {
+    margin-bottom: 10px;
+  }
+  
+  .partner-form form label {
+    margin-bottom: 5px;
+  }
+  
+  .partner-form form input[type="text"] {
+    padding: 5px;
+    width: 100%;
+  }
+  
+  .partner-form form input[type="checkbox"] {
+    margin-left: 10px;
+  }
+  
+  .partner-form form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    align-self: flex-start;
+  }
+  

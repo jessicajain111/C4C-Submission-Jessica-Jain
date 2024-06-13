@@ -20,3 +20,16 @@ git clone https://github.com/huang0h/c4c-challenge-fall-2024.git
 4. Visit `http://localhost:3000` to view the website
     
     4a. The backend will be available at `http://localhost:4000`
+
+
+
+1) Instructions to run it: CD into the project directory, then type in 'npm run dev', and open `http://localhost:3000` and `http://localhost:4000`
+
+2) Overview of the application: This application  consists of a React frontend and an Express backend. The frontend will provide a user interface for viewing, adding, and deleting partner information, while the backend will handle data storage and retrieval. The data will be stored in memory for simplicity
+
+3) Design Decisions: I decided to keep the design the same as the sample. I made the decision to toggle the "Add Partner Info" so that the Partner form can show when you press the button and disapeer when you press the submit button 
+
+4)Reflection of my work: 
+   - React and Backend is very new for me so this was my first time working on a project including React. I learned so much such as React syntax, how backend and frontend connect, and about API
+   - If I had more time I would change the design a little bit. I wish I could experiment with it and learn more about front end design
+   - I ran into issues with being able to remove partners information from the screen and the partners list 

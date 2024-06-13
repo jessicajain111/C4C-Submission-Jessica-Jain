@@ -1,0 +1,86 @@
+.partner-tile {
+    width: 500px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  
+  .partner-thumbnail {
+    max-width: 400px;
+    max-height: 150px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .partner-name {
+    font-size: 4px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .partner-description {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .partner-delete-button {
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 10px;
+    cursor: pointer;
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /*AddPartner*/
+  .add-partner-container {
+    width: 500px;
+    height: 505px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .add-partner-form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .add-partner-container input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .add-partner-container button {
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+  }
+  
